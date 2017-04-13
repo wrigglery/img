@@ -58,4 +58,4 @@ sshd日志中会有如下记录:
 
 ## 文献
 
-1. http://www.linuxweblog.com/blogs/sandip/20090203/setloginuid-failed-opening-loginuid 1
+1. http://www.linuxweblog.com/blogs/sandip/20090203/setloginuid-failed-opening-loginuid dingwei999
